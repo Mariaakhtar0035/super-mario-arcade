@@ -1,0 +1,14 @@
+# NetBeans / Ant build output
+build/
+dist/
+
+# Compiled classes
+*.class
+
+# macOS
+.DS_Store
+
+# NetBeans project files
+nbproject/
+build.xml
+manifest.mf
